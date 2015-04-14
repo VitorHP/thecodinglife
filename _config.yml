@@ -1,31 +1,31 @@
-title:            Notepad
-description:      "Blogging is fun"
+title:            TODO
+description:      "TODO"
 logo:             logo.png
-disqus_shortname: hmfaysal
+disqus_shortname: VitorHP
 share:            true
 dropcap:			true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-url:        	  /thecodinglife
+url: ''
 
 # Owner/author information
 owner:
-  name:           Hossain Mohd Faysal
+  name:           Vitor Bittencourt
   avatar:         hmfaysal.jpg
-  email:          hmfaysal@alum.mit.edu
+  email:          vitorhp2@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Awesome Dude, Awesome Life
+  description:    TODO
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        hmfaysal
-  facebook:       hmfaysal
-  github:         hmfaysal      
-  instagram:      hmfaysal
+  twitter:        sambarilov
+  facebook:       vitorhp2
+  github:         vitorhp
+  # instagram:      
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/u/0/102602916593522619858
+  google_plus:    https://plus.google.com/u/1/108669184055184339224
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-39365944-7
+google_analytics:   TODO
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
@@ -37,15 +37,13 @@ links:
     url: /
     external: false
     icon: home
-  - title: Featured Posts
-    url: /featured
   - title: Categories
     url: /categories
   - title: About
     url: /about
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Asia/Dhaka
+timezone:    America/Sao_Paulo
 future:      true
 highlighter: pygments
 markdown:    kramdown
@@ -71,8 +69,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://hmfaysal.github.io/Notepad/'
-  relativeLinks: 'http://hmfaysal.github.io/Notepad/links.jsonp'
+  siteurl: 'http://vitorhp.github.io/thecodinglife/'
+  relativeLinks: 'http://vitorhp.github.io/thecodinglife/links.jsonp'
   media: 'images'
   metadata:
     _posts:
@@ -115,12 +113,6 @@ prose:
           options:
             - name: "Personal"
               value: personal
-            - name: "Engineering"
-              value: engineering
-            - name: "Physics"
-              value: physics
-            - name: "Psychology"
-              value: psychology
             - name: "Interesting"
               value: interesting
             - name: "Web-Development"
