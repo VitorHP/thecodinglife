@@ -1,5 +1,5 @@
-title:            TODO
-description:      "TODO"
+title:            Live by the code
+description:      "The Coding Life"
 logo:             logo.png
 disqus_shortname: VitorHP
 share:            true
@@ -12,15 +12,15 @@ url: '/thecodinglife'
 # Owner/author information
 owner:
   name:           Vitor Bittencourt
-  avatar:         hmfaysal.jpg
+  avatar:         vitor-hp.jpg
   email:          vitorhp2@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    TODO
+  # description:
   # Social networking links used in footer. Update and remove as you like.
   twitter:        sambarilov
   facebook:       vitorhp2
   github:         vitorhp
-  # instagram:      
+  # instagram:
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    https://plus.google.com/u/1/108669184055184339224
 
@@ -51,7 +51,7 @@ paginate:    5
 paginate_path: "page:num"
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
+permalink:   /:title
 
 kramdown:
   auto_ids: true
