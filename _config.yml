@@ -1,6 +1,7 @@
 title:            Live by the code
 description:      "The Coding Life"
 logo:             
+default_bg:       vitor-hp.jpg
 disqus_shortname: VitorHP
 share:            true
 dropcap:			true
