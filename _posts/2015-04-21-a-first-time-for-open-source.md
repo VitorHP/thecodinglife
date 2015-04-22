@@ -82,3 +82,6 @@ control and fixed it after doing the merge.
 And [here's the little bastard](https://github.com/phusion/juvia/pull/67).
 
 If you find any problems, be sure to scream at me and open an issue.
+
+P.S.: As a matter of fact, this blog's comments are hosted in my Juvia instance on
+Heroku. Don't mind the css. I'll tend to that tonight. :D
