@@ -71,9 +71,9 @@
         {% if site.disqus_shortname and page.comments == true %}
         <section class="notepad-disqus row">
     <div class="small-12 columns">
-        <!-- <h1 class="notepad-comments-header">Comments</h1> -->
-        <!-- <div id="disqus_thread"></div> -->
-        <!-- {% include disqus_comments.html %} -->
+        <h1 class="notepad-comments-header">Comments</h1>
+        <div id="juvia_thread"></div>
+        {% include juvia_comments.html %}
     </div>
 </section>
 {% endif %}
